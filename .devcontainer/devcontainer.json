@@ -1,0 +1,14 @@
+{
+  "name": "Android Development",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": [
+    "vscjava.vscode-java-pack",
+    "ms-vscode.vscode-gradle",
+    "google.android-emulator",
+    "ms-azuretools.vscode-docker"
+  ],
+  "settings": {},
+  "remoteUser": "vscode"
+}
